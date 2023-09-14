@@ -1,0 +1,17 @@
+[
+    {
+        "city": "New York",
+        "temperature": 25,
+        "weather_condition": "Partly Cloudy"
+    },
+    {
+        "city": "Los Angeles",
+        "temperature": 30,
+        "weather_condition": "Sunny"
+    },
+    {
+        "city": "Chicago",
+        "temperature": 18,
+        "weather_condition": "Cloudy"
+    }
+]
