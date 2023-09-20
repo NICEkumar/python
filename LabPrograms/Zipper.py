@@ -13,7 +13,7 @@ if not os.path.isdir(directoryName):
 
 currentDirectory = pathlib.Path(directoryName)
 
-Zip = "Zip"
+Zip = "Zip.zip"
 
 with zipfile.ZipFile(Zip, mode='w') as archive:
     for i in currentDirectory.rglob("*"):
