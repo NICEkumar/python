@@ -8,5 +8,5 @@ with open(filename, 'r') as jFile:
 print("Weather Data:")
 for entry in weatherData:
     print("City:", entry["city"])
-    print("Temperature:", entry["temperature"])
+    print("Temperature:", entry["tempt"])
     print("Weather Condition:", entry["weather_condition"])

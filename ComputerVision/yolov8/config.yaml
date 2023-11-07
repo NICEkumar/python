@@ -1,0 +1,8 @@
+
+path: /Users/NICE/programming/internship/day_5/football/data
+train : images/train
+val : images/train
+
+names:
+  0: player
+  1: football
