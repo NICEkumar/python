@@ -1,2 +1,6 @@
-for i in range(1,int(input())):
-    print(i * (10**i - 1)//9)
+next = True
+while next:
+    a=ord(input())
+    if a != 27:
+        print(a)
+    else: next = False
